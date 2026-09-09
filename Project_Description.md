@@ -1,7 +1,7 @@
 # Project Description
 
-## Team Name
-# Voya
+## Team Name: Voya
+
 
 ## Team Members
 
