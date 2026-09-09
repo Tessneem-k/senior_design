@@ -14,7 +14,8 @@
 Travel Social Platform: a web and mobile application that helps users decide where to travel based on weather and seasonality, provides transparent price breakdowns, and functions as a social platform where users can post, browse, and review real travel itineraries.
 
 ## Faculty/Industry Advisor
-*(TBD)*
+Dr. Jillian Aurisano
+Associate Professor Educator
 
 ## Project Abstract
 *(TBD)*
